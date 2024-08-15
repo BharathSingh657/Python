@@ -1,3 +1,4 @@
+#Write a program to Calculate the Area of a Triangle.
 import math
 a = int(input("Enter the Length of the first side "))
 b = int(input("Enter the length of the second side "))
