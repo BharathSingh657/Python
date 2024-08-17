@@ -1,3 +1,4 @@
+#Write a program to swap two variables without using a third variable.
 a = input("Enter the first number ")
 b = input("Enter the second number ")
 a = a+b
